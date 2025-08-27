@@ -50,7 +50,7 @@ This project applies various time series forecasting techniques to predict stock
 
 ---
 
-StreamLit Link:- https://stockforecastingbyaryan.streamlit.app/
+StreamLit Link:- https://time-series-stock-forecasting-and-analytics-mcxokw3njregpga5wc.streamlit.app/
 
 ## 🚀 How to Run
 
@@ -58,6 +58,5 @@ StreamLit Link:- https://stockforecastingbyaryan.streamlit.app/
 pip install -r requirements.txt
 streamlit run app.py
 
-StreamLit Link:- https://stockforecastingbyaryan.streamlit.app/
-
+streamlit link:- https://time-series-stock-forecasting-and-analytics-mcxokw3njregpga5wc.streamlit.app/
 
