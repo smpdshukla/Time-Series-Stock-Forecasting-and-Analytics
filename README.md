@@ -49,3 +49,15 @@ This project applies various time series forecasting techniques to predict stock
 - ✅ Interactive model selection in dashboard
 
 ---
+
+StreamLit Link:- https://stockforecastingbyaryan.streamlit.app/
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+StreamLit Link:- https://stockforecastingbyaryan.streamlit.app/
+
+
